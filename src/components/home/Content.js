@@ -1,6 +1,6 @@
 import React from 'react';
 import Jumbotron from './Jumbotron';
-import Input from './Input';
+import Input from './InputForm';
 import Thumbnail from './Thumbnail';
 
 class Content extends React.Component {
